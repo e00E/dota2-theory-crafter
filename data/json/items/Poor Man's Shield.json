@@ -1,0 +1,8 @@
+{
+    "ItemCost": 500.0,
+    "Name": "Poor Man's Shield",
+    "block_chance": 53.0,
+    "bonus_agility": 6.0,
+    "damage_block_melee": 20.0,
+    "damage_block_ranged": 10.0
+}

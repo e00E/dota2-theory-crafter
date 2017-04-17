@@ -1,0 +1,21 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 30.0,
+    "AttackDamageMin": 24.0,
+    "AttackRange": 600.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.5,
+    "AttributeBaseAgility": 20.0,
+    "AttributeBaseIntelligence": 19.0,
+    "AttributeBaseStrength": 14.0,
+    "AttributeIntelligenceGain": 1.85,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 1.65,
+    "MovementSpeed": 290.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Medusa",
+    "ProjectileSpeed": 1200.0,
+    "VisionDaytimeRange": 1800.0,
+    "VisionNighttimeRange": 800.0
+}

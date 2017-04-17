@@ -1,0 +1,21 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 22.0,
+    "AttackDamageMin": 16.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.9,
+    "AttributeBaseAgility": 23.0,
+    "AttributeBaseIntelligence": 20.0,
+    "AttributeBaseStrength": 23.0,
+    "AttributeIntelligenceGain": 1.6,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 1.6,
+    "MagicalResistance": 35.0,
+    "MovementSpeed": 315.0,
+    "MovementTurnRate": 0.65,
+    "Name": "Meepo",
+    "VisionDaytimeRange": 1800.0,
+    "VisionNighttimeRange": 800.0
+}

@@ -1,0 +1,7 @@
+{
+    "ItemCost": 200.0,
+    "Name": "Stout Shield",
+    "block_chance": 50.0,
+    "damage_block_melee": 16.0,
+    "damage_block_ranged": 8.0
+}

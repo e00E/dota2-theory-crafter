@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 33.0,
+    "AttackDamageMin": 26.0,
+    "AttackRange": 500.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.6,
+    "AttributeBaseAgility": 16.0,
+    "AttributeBaseIntelligence": 21.0,
+    "AttributeBaseStrength": 21.0,
+    "AttributeIntelligenceGain": 3.0,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.8,
+    "MovementSpeed": 285.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Shadow Shaman",
+    "ProjectileSpeed": 900.0
+}

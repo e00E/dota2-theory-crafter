@@ -1,0 +1,20 @@
+{
+    "ArmorPhysical": 2.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 40.0,
+    "AttackDamageMin": 28.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.5,
+    "AttributeBaseAgility": 15.0,
+    "AttributeBaseIntelligence": 19.0,
+    "AttributeBaseStrength": 21.0,
+    "AttributeIntelligenceGain": 1.65,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.75,
+    "MovementSpeed": 315.0,
+    "MovementTurnRate": 0.8,
+    "Name": "Magnus",
+    "VisionDaytimeRange": 1800.0,
+    "VisionNighttimeRange": 800.0
+}

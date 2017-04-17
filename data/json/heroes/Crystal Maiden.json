@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 25.0,
+    "AttackDamageMin": 19.0,
+    "AttackRange": 600.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.6,
+    "AttributeBaseAgility": 16.0,
+    "AttributeBaseIntelligence": 16.0,
+    "AttributeBaseStrength": 16.0,
+    "AttributeIntelligenceGain": 2.9,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.7,
+    "MovementSpeed": 280.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Crystal Maiden",
+    "ProjectileSpeed": 900.0
+}

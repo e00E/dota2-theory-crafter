@@ -1,0 +1,10 @@
+{
+    "ItemCost": 5300.0,
+    "Name": "Guardian Greaves",
+    "aura_armor": 2.0,
+    "aura_health_regen": 4.0,
+    "bonus_all_stats": 5.0,
+    "bonus_armor": 5.0,
+    "bonus_mana": 250.0,
+    "bonus_movement": 55.0
+}

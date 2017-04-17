@@ -1,0 +1,20 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 29.0,
+    "AttackDamageMin": 18.0,
+    "AttackRange": 600.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.75,
+    "AttributeBaseAgility": 20.0,
+    "AttributeBaseIntelligence": 17.0,
+    "AttributeBaseStrength": 17.0,
+    "AttributeIntelligenceGain": 1.65,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 1.85,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Mirana",
+    "ProjectileSpeed": 900.0,
+    "VisionNighttimeRange": 800.0
+}

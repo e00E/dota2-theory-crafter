@@ -1,0 +1,45 @@
+Current modell:
+	One Enum with all Effects.
+	Examples:
+		Agility(Value)
+		ConditionalDamage(chance, value, damagetype)
+	There is are reduction methods for multiple effects like get_total_agility or get_critical_strike_factor.
+	The Hero class uses those reduction methods to apply effects correctly.
+	
+Modell with priority:
+	Every effect has some priority in case it depends on other effects being applied first.
+	For example Agility needs to be applied before Drow's passive aura.
+	Effects stores a list of Effects sorted by their priority.
+	Effects could still have the same reduction methods and they are a bit more efficient (can stop early after some priority is reached).
+	There would be predefined priority levels (as an enum) and it has the advantage of making it easier to see in what order effects apply,
+	because currenlty you would have to find the right place in the hero implementation.
+
+Modell with priority and abstract base effects:
+	Priority is the same as above but more abstractions can be provided.
+	For example there could be the abstract effect attack_damage that takes a list of effects and a hero
+	and returns how much damage it gives. Then a plain plus damage effect would just ignore those parameters
+	but Drow Aura uses them to get the total agility and compute the bonus damage. Here we obviously need priorites since
+	this needs to happen after all plain agility effects were applied.
+	The Effect list can already filtered to only include needed priorites as a slice.
+	Or Silencer's Glaives and OD's Orb could share the same base effect additional_pure_damage and the same priority.
+	For this it would make sense to implement some attributes of the hero class as effects so they can be mixed with the effect list easier.
+	Instead of the current agility attribute the hero simply has an agility effect that gets computed with the current level and stats gain...
+	This makes base effects be result oriented, base effects are the different things effects can have as their result on a hero.
+	Could still be implemented as Enum of base effects that takes closures and priorities as arguments.
+	Could also be implemented with trais which allows more code sharing.
+	The priority could be definied explicitly as an Enum or implicitly in the ordering function. Latter makes more sense since there are no two effects that
+	have the same type but different priorities.
+	Enum BaseEffect {
+		Agility( get_value; |vec<effect>| -> f64 ),
+		AttackDamage( .. ),
+		..
+	}
+	How would Trait implementation work?
+	Trait Agility {
+		fn get_value( vec<effect> )
+	}
+	Trait AttackDamage ...
+	Enum BaseEffect<T: Agility, S: AttackDamage,...> {
+		Agility( T ),
+		...
+	}

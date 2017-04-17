@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 32.0,
+    "AttackDamageMin": 26.0,
+    "AttackRange": 330.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.8,
+    "AttributeBaseAgility": 18.0,
+    "AttributeBaseIntelligence": 16.0,
+    "AttributeBaseStrength": 15.0,
+    "AttributeIntelligenceGain": 1.85,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 1.9,
+    "MovementSpeed": 330.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Luna",
+    "ProjectileSpeed": 900.0
+}

@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 2.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 28.0,
+    "AttackDamageMin": 22.0,
+    "AttackRange": 500.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.2,
+    "AttributeBaseAgility": 13.0,
+    "AttributeBaseIntelligence": 27.0,
+    "AttributeBaseStrength": 17.0,
+    "AttributeIntelligenceGain": 2.2,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 2.0,
+    "MovementSpeed": 305.0,
+    "MovementTurnRate": 0.6,
+    "Name": "Tinker",
+    "ProjectileSpeed": 900.0
+}

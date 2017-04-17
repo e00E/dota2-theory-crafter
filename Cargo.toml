@@ -1,0 +1,12 @@
+[package]
+
+name = "DotA_Simulator"
+version = "0.0.1"
+authors = [ "e00E" ]
+
+[dependencies]
+rustc-serialize = "0.3"
+
+[[bin]]
+
+name = "DotA_Simulator"

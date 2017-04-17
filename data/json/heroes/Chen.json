@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 32.0,
+    "AttackDamageMin": 22.0,
+    "AttackRange": 600.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.1,
+    "AttributeBaseAgility": 15.0,
+    "AttributeBaseIntelligence": 21.0,
+    "AttributeBaseStrength": 20.0,
+    "AttributeIntelligenceGain": 2.8,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.5,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.6,
+    "Name": "Chen",
+    "ProjectileSpeed": 1100.0
+}

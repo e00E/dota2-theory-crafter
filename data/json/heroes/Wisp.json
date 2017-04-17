@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -2.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 35.0,
+    "AttackDamageMin": 26.0,
+    "AttackRange": 575.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.6,
+    "AttributeBaseAgility": 14.0,
+    "AttributeBaseIntelligence": 23.0,
+    "AttributeBaseStrength": 17.0,
+    "AttributeIntelligenceGain": 1.7,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 1.9,
+    "MovementSpeed": 295.0,
+    "MovementTurnRate": 0.7,
+    "Name": "Wisp",
+    "ProjectileSpeed": 1200.0
+}

@@ -1,0 +1,21 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 35.0,
+    "AttackDamageMin": 17.0,
+    "AttackRange": 500.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.75,
+    "AttributeBaseAgility": 21.0,
+    "AttributeBaseIntelligence": 13.0,
+    "AttributeBaseStrength": 17.0,
+    "AttributeIntelligenceGain": 1.0,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 2.2,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Troll Warlord",
+    "ProjectileSpeed": 1200.0,
+    "VisionDaytimeRange": 1800.0,
+    "VisionNighttimeRange": 800.0
+}

@@ -1,0 +1,7 @@
+{
+    "ItemCost": 1500.0,
+    "Name": "Javelin",
+    "bonus_chance": 20.0,
+    "bonus_chance_damage": 40.0,
+    "bonus_damage": 21.0
+}

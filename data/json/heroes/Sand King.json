@@ -1,0 +1,18 @@
+{
+    "ArmorPhysical": -0.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 41.0,
+    "AttackDamageMin": 25.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.1,
+    "AttributeBaseAgility": 19.0,
+    "AttributeBaseIntelligence": 16.0,
+    "AttributeBaseStrength": 18.0,
+    "AttributeIntelligenceGain": 1.8,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.6,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Sand King"
+}

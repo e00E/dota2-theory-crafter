@@ -1,0 +1,7 @@
+{
+    "ItemCost": 5520.0,
+    "Name": "Greater Crit",
+    "bonus_damage": 81.0,
+    "crit_chance": 25.0,
+    "crit_multiplier": 240.0
+}

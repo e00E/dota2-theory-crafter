@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 34.0,
+    "AttackDamageMin": 30.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.2,
+    "AttributeBaseAgility": 19.0,
+    "AttributeBaseIntelligence": 18.0,
+    "AttributeBaseStrength": 18.0,
+    "AttributeIntelligenceGain": 2.1,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 2.0,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Nyx Assassin",
+    "StatusHealthRegen": 2.5
+}

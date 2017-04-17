@@ -1,0 +1,8 @@
+{
+    "ItemCost": 5675.0,
+    "Name": "Sheepstick",
+    "bonus_agility": 10.0,
+    "bonus_intellect": 35.0,
+    "bonus_mana_regen": 150.0,
+    "bonus_strength": 10.0
+}

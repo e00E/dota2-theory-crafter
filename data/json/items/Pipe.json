@@ -1,0 +1,8 @@
+{
+    "ItemCost": 3525.0,
+    "Name": "Pipe",
+    "aura_health_regen": 4.0,
+    "bonus_all_stats": 0.0,
+    "health_regen": 9.0,
+    "magic_resistance": 30.0
+}

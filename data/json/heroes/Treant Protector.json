@@ -1,0 +1,20 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 64.0,
+    "AttackDamageMin": 56.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.9,
+    "AttributeAgilityGain": 2.0,
+    "AttributeBaseAgility": 15.0,
+    "AttributeBaseIntelligence": 17.0,
+    "AttributeBaseStrength": 25.0,
+    "AttributeIntelligenceGain": 1.8,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 3.3,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Treant Protector",
+    "VisionDaytimeRange": 1800.0,
+    "VisionNighttimeRange": 800.0
+}

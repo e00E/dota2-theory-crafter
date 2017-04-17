@@ -1,0 +1,9 @@
+{
+    "ItemCost": 4100.0,
+    "Name": "Sange and Yasha",
+    "bonus_agility": 16.0,
+    "bonus_attack_speed": 16.0,
+    "bonus_damage": 16.0,
+    "bonus_strength": 16.0,
+    "movement_speed_percent_bonus": 16.0
+}

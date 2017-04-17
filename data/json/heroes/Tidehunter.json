@@ -1,0 +1,18 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 31.0,
+    "AttackDamageMin": 25.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.5,
+    "AttributeBaseAgility": 15.0,
+    "AttributeBaseIntelligence": 16.0,
+    "AttributeBaseStrength": 22.0,
+    "AttributeIntelligenceGain": 1.7,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 3.0,
+    "MovementSpeed": 305.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Tidehunter"
+}

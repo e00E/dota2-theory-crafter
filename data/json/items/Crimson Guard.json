@@ -1,0 +1,9 @@
+{
+    "ItemCost": 3800.0,
+    "Name": "Crimson Guard",
+    "block_chance": 75.0,
+    "bonus_all_stats": 2.0,
+    "bonus_armor": 5.0,
+    "bonus_health": 250.0,
+    "bonus_health_regen": 6.0
+}

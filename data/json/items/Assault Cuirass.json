@@ -1,0 +1,8 @@
+{
+    "ItemCost": 5250.0,
+    "Name": "Assault Cuirass",
+    "aura_attack_speed": 20.0,
+    "aura_positive_armor": 5.0,
+    "bonus_armor": 10.0,
+    "bonus_attack_speed": 35.0
+}

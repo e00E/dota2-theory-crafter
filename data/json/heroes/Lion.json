@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 33.0,
+    "AttackDamageMin": 27.0,
+    "AttackRange": 600.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.5,
+    "AttributeBaseAgility": 15.0,
+    "AttributeBaseIntelligence": 22.0,
+    "AttributeBaseStrength": 16.0,
+    "AttributeIntelligenceGain": 3.0,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.7,
+    "MovementSpeed": 290.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Lion",
+    "ProjectileSpeed": 900.0
+}

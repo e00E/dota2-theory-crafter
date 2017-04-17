@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 38.0,
+    "AttackDamageMin": 24.0,
+    "AttackRange": 600.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.9,
+    "AttributeBaseAgility": 18.0,
+    "AttributeBaseIntelligence": 21.0,
+    "AttributeBaseStrength": 19.0,
+    "AttributeIntelligenceGain": 2.9,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.8,
+    "MovementSpeed": 295.0,
+    "MovementTurnRate": 0.6,
+    "Name": "Furion",
+    "ProjectileSpeed": 1125.0
+}

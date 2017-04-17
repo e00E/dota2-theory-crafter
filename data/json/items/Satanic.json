@@ -1,0 +1,8 @@
+{
+    "ItemCost": 5950.0,
+    "Name": "Satanic",
+    "bonus_armor": 5.0,
+    "bonus_damage": 20.0,
+    "bonus_strength": 25.0,
+    "lifesteal_percent": 25.0
+}

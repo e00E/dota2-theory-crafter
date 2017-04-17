@@ -1,0 +1,7 @@
+{
+    "ItemCost": 5500.0,
+    "Name": "Heart",
+    "bonus_health": 300.0,
+    "bonus_strength": 40.0,
+    "health_regen_rate": 3.25
+}

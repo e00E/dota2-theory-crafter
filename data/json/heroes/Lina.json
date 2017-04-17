@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 31.0,
+    "AttackDamageMin": 13.0,
+    "AttackRange": 670.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.5,
+    "AttributeBaseAgility": 16.0,
+    "AttributeBaseIntelligence": 27.0,
+    "AttributeBaseStrength": 18.0,
+    "AttributeIntelligenceGain": 3.2,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.5,
+    "MovementSpeed": 295.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Lina",
+    "ProjectileSpeed": 1000.0
+}

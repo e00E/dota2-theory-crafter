@@ -1,0 +1,18 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 41.0,
+    "AttackDamageMin": 36.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.9,
+    "AttributeBaseAgility": 16.0,
+    "AttributeBaseIntelligence": 17.0,
+    "AttributeBaseStrength": 22.0,
+    "AttributeIntelligenceGain": 1.55,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.75,
+    "MovementSpeed": 305.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Lycan"
+}

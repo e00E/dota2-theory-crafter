@@ -1,0 +1,18 @@
+{
+    "ArmorPhysical": 2.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 43.0,
+    "AttackDamageMin": 35.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 0.8,
+    "AttributeBaseAgility": 10.0,
+    "AttributeBaseIntelligence": 27.0,
+    "AttributeBaseStrength": 22.0,
+    "AttributeIntelligenceGain": 2.5,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.1,
+    "MovementSpeed": 310.0,
+    "MovementTurnRate": 0.6,
+    "Name": "Undying"
+}

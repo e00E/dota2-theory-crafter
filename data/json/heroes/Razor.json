@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 25.0,
+    "AttackDamageMin": 23.0,
+    "AttackRange": 475.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.0,
+    "AttributeBaseAgility": 22.0,
+    "AttributeBaseIntelligence": 19.0,
+    "AttributeBaseStrength": 21.0,
+    "AttributeIntelligenceGain": 1.8,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 2.3,
+    "MovementSpeed": 295.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Razor",
+    "ProjectileSpeed": 2000.0
+}

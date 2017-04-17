@@ -1,0 +1,8 @@
+{
+    "ItemCost": 4075.0,
+    "Name": "Orchid",
+    "bonus_attack_speed": 30.0,
+    "bonus_damage": 30.0,
+    "bonus_intellect": 25.0,
+    "bonus_mana_regen": 150.0
+}

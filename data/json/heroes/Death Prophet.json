@@ -1,0 +1,20 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 36.0,
+    "AttackDamageMin": 24.0,
+    "AttackRange": 600.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.4,
+    "AttributeBaseAgility": 14.0,
+    "AttributeBaseIntelligence": 20.0,
+    "AttributeBaseStrength": 19.0,
+    "AttributeIntelligenceGain": 3.0,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.9,
+    "MovementSpeed": 280.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Death Prophet",
+    "ProjectileSpeed": 1000.0,
+    "StatusHealthRegen": 0.75
+}

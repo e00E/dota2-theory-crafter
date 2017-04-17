@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -2.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 22.0,
+    "AttackDamageMin": 12.0,
+    "AttackRange": 600.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 0.8,
+    "AttributeBaseAgility": 13.0,
+    "AttributeBaseIntelligence": 27.0,
+    "AttributeBaseStrength": 19.0,
+    "AttributeIntelligenceGain": 3.6,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.5,
+    "MovementSpeed": 325.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Skywrath Mage",
+    "ProjectileSpeed": 1000.0
+}

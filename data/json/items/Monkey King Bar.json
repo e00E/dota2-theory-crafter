@@ -1,0 +1,8 @@
+{
+    "ItemCost": 5400.0,
+    "Name": "Monkey King Bar",
+    "bash_chance": 35.0,
+    "bash_damage": 100.0,
+    "bonus_attack_speed": 15.0,
+    "bonus_damage": 88.0
+}

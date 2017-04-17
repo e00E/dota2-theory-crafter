@@ -1,0 +1,7 @@
+{
+    "ItemCost": 2120.0,
+    "Name": "Lesser Crit",
+    "bonus_damage": 30.0,
+    "crit_chance": 20.0,
+    "crit_multiplier": 175.0
+}

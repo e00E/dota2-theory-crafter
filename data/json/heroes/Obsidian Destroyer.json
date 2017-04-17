@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 2.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 35.0,
+    "AttackDamageMin": 20.0,
+    "AttackRange": 450.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.0,
+    "AttributeBaseAgility": 24.0,
+    "AttributeBaseIntelligence": 26.0,
+    "AttributeBaseStrength": 19.0,
+    "AttributeIntelligenceGain": 3.3,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.85,
+    "MovementSpeed": 315.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Obsidian Destroyer",
+    "ProjectileSpeed": 900.0
+}

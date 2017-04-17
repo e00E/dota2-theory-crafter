@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 0.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 34.0,
+    "AttackDamageMin": 32.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.7,
+    "AttributeBaseAgility": 18.0,
+    "AttributeBaseIntelligence": 18.0,
+    "AttributeBaseStrength": 22.0,
+    "AttributeIntelligenceGain": 1.6,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.9,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Skeleton King or Wraith King",
+    "ProjectileSpeed": 0.0
+}

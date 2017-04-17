@@ -1,0 +1,20 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 35.0,
+    "AttackDamageMin": 25.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.5,
+    "AttributeBaseAgility": 17.0,
+    "AttributeBaseIntelligence": 18.0,
+    "AttributeBaseStrength": 21.0,
+    "AttributeIntelligenceGain": 2.4,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.9,
+    "MovementSpeed": 305.0,
+    "MovementTurnRate": 0.6,
+    "Name": "Earth Spirit",
+    "VisionDaytimeRange": 1800.0,
+    "VisionNighttimeRange": 800.0
+}

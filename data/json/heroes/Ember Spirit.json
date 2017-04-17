@@ -1,0 +1,21 @@
+{
+    "ArmorPhysical": -2.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 34.0,
+    "AttackDamageMin": 30.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.8,
+    "AttributeBaseAgility": 22.0,
+    "AttributeBaseIntelligence": 20.0,
+    "AttributeBaseStrength": 19.0,
+    "AttributeIntelligenceGain": 1.8,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 2.0,
+    "MovementSpeed": 310.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Ember Spirit",
+    "StatusHealthRegen": 0.75,
+    "VisionDaytimeRange": 1800.0,
+    "VisionNighttimeRange": 800.0
+}

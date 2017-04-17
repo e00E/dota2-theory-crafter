@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 34.0,
+    "AttackDamageMin": 24.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.4,
+    "AttributeBaseAgility": 12.0,
+    "AttributeBaseIntelligence": 16.0,
+    "AttributeBaseStrength": 22.0,
+    "AttributeIntelligenceGain": 1.8,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.9,
+    "MovementSpeed": 310.0,
+    "MovementTurnRate": 0.9,
+    "Name": "Earthshaker",
+    "ProjectileSpeed": 0.0
+}

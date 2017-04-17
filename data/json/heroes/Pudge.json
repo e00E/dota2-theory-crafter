@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 33.0,
+    "AttackDamageMin": 27.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.5,
+    "AttributeBaseAgility": 14.0,
+    "AttributeBaseIntelligence": 14.0,
+    "AttributeBaseStrength": 25.0,
+    "AttributeIntelligenceGain": 1.5,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 3.2,
+    "MovementSpeed": 285.0,
+    "MovementTurnRate": 0.7,
+    "Name": "Pudge",
+    "ProjectileSpeed": 0.0
+}

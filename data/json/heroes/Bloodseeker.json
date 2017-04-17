@@ -1,0 +1,18 @@
+{
+    "ArmorPhysical": 0.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 35.0,
+    "AttackDamageMin": 29.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 3.0,
+    "AttributeBaseAgility": 24.0,
+    "AttributeBaseIntelligence": 18.0,
+    "AttributeBaseStrength": 23.0,
+    "AttributeIntelligenceGain": 1.7,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 2.0,
+    "MovementSpeed": 290.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Bloodseeker"
+}

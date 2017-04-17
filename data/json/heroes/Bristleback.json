@@ -1,0 +1,18 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 36.0,
+    "AttackDamageMin": 26.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.8,
+    "AttributeBaseAgility": 17.0,
+    "AttributeBaseIntelligence": 14.0,
+    "AttributeBaseStrength": 22.0,
+    "AttributeIntelligenceGain": 2.8,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.2,
+    "MovementSpeed": 290.0,
+    "MovementTurnRate": 1.0,
+    "Name": "Bristleback"
+}

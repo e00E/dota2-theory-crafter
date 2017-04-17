@@ -1,0 +1,8 @@
+{
+    "ItemCost": 1650.0,
+    "Name": "Oblivion Staff",
+    "bonus_attack_speed": 10.0,
+    "bonus_damage": 15.0,
+    "bonus_intellect": 6.0,
+    "bonus_mana_regen": 75.0
+}

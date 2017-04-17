@@ -1,0 +1,20 @@
+{
+    "ArmorPhysical": 0.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 28.0,
+    "AttackDamageMin": 24.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.4,
+    "AttributeAgilityGain": 2.4,
+    "AttributeBaseAgility": 26.0,
+    "AttributeBaseIntelligence": 14.0,
+    "AttributeBaseStrength": 20.0,
+    "AttributeIntelligenceGain": 1.4,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 1.9,
+    "MovementSpeed": 305.0,
+    "MovementTurnRate": 0.6,
+    "Name": "Juggernaut",
+    "ProjectileSpeed": 0.0,
+    "StatusHealthRegen": 0.75
+}

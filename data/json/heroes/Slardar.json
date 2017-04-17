@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 3.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 38.0,
+    "AttackDamageMin": 30.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.4,
+    "AttributeBaseAgility": 17.0,
+    "AttributeBaseIntelligence": 15.0,
+    "AttributeBaseStrength": 21.0,
+    "AttributeIntelligenceGain": 1.5,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.8,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Slardar",
+    "ProjectileSpeed": 0.0
+}

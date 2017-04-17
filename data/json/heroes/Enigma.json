@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 2.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 28.0,
+    "AttackDamageMin": 22.0,
+    "AttackRange": 500.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.0,
+    "AttributeBaseAgility": 14.0,
+    "AttributeBaseIntelligence": 20.0,
+    "AttributeBaseStrength": 17.0,
+    "AttributeIntelligenceGain": 3.4,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 2.1,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Enigma",
+    "ProjectileSpeed": 900.0
+}

@@ -1,0 +1,6 @@
+{
+    "ItemCost": 1200.0,
+    "Name": "Point Booster",
+    "bonus_health": 200.0,
+    "bonus_mana": 150.0
+}

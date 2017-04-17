@@ -1,0 +1,21 @@
+{
+    "ArmorPhysical": -3.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 29.0,
+    "AttackDamageMin": 18.0,
+    "AttackRange": 625.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.9,
+    "AttributeBaseAgility": 26.0,
+    "AttributeBaseIntelligence": 15.0,
+    "AttributeBaseStrength": 17.0,
+    "AttributeIntelligenceGain": 1.4,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 1.9,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.6,
+    "Name": "Drow Ranger",
+    "ProjectileSpeed": 1250.0,
+    "VisionDaytimeRange": 1800.0,
+    "VisionNighttimeRange": 800.0
+}

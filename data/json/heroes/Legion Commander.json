@@ -1,0 +1,18 @@
+{
+    "ArmorPhysical": 0.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 35.0,
+    "AttackDamageMin": 31.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.7,
+    "AttributeBaseAgility": 18.0,
+    "AttributeBaseIntelligence": 20.0,
+    "AttributeBaseStrength": 26.0,
+    "AttributeIntelligenceGain": 2.2,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.6,
+    "MovementSpeed": 320.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Legion Commander"
+}

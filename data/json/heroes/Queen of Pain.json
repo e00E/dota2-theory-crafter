@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 33.0,
+    "AttackDamageMin": 25.0,
+    "AttackRange": 550.0,
+    "AttackRate": 1.6,
+    "AttributeAgilityGain": 2.0,
+    "AttributeBaseAgility": 18.0,
+    "AttributeBaseIntelligence": 24.0,
+    "AttributeBaseStrength": 16.0,
+    "AttributeIntelligenceGain": 2.5,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.7,
+    "MovementSpeed": 295.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Queen of Pain",
+    "ProjectileSpeed": 1500.0
+}

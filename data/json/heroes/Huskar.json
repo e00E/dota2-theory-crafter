@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 30.0,
+    "AttackDamageMin": 21.0,
+    "AttackRange": 400.0,
+    "AttackRate": 1.6,
+    "AttributeAgilityGain": 1.4,
+    "AttributeBaseAgility": 15.0,
+    "AttributeBaseIntelligence": 18.0,
+    "AttributeBaseStrength": 21.0,
+    "AttributeIntelligenceGain": 1.5,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.4,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Huskar",
+    "ProjectileSpeed": 1400.0
+}

@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 32.0,
+    "AttackDamageMin": 14.0,
+    "AttackRange": 550.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.7,
+    "AttributeBaseAgility": 21.0,
+    "AttributeBaseIntelligence": 27.0,
+    "AttributeBaseStrength": 16.0,
+    "AttributeIntelligenceGain": 3.4,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.85,
+    "MovementSpeed": 305.0,
+    "MovementTurnRate": 0.6,
+    "Name": "Dazzle",
+    "ProjectileSpeed": 1200.0
+}

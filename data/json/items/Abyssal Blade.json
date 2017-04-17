@@ -1,0 +1,9 @@
+{
+    "ItemCost": 6750.0,
+    "Name": "Abyssal Blade",
+    "bash_chance_melee": 25.0,
+    "bash_chance_ranged": 10.0,
+    "bonus_chance_damage": 60.0,
+    "bonus_damage": 85.0,
+    "bonus_strength": 10.0
+}

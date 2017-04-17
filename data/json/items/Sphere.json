@@ -1,0 +1,8 @@
+{
+    "ItemCost": 5175.0,
+    "Name": "Sphere",
+    "bonus_all_stats": 15.0,
+    "bonus_damage": 10.0,
+    "bonus_health_regen": 6.0,
+    "bonus_mana_regen": 150.0
+}

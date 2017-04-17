@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 5.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 47.0,
+    "AttackDamageMin": 41.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.55,
+    "AttributeBaseAgility": 14.0,
+    "AttributeBaseIntelligence": 17.0,
+    "AttributeBaseStrength": 23.0,
+    "AttributeIntelligenceGain": 2.4,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 3.2,
+    "MovementSpeed": 295.0,
+    "MovementTurnRate": 0.6,
+    "Name": "Ogre Magi",
+    "StatusHealthRegen": 2.5
+}

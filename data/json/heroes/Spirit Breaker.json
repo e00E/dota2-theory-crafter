@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 3.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 41.0,
+    "AttackDamageMin": 31.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.9,
+    "AttributeAgilityGain": 1.7,
+    "AttributeBaseAgility": 17.0,
+    "AttributeBaseIntelligence": 14.0,
+    "AttributeBaseStrength": 29.0,
+    "AttributeIntelligenceGain": 1.8,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.4,
+    "MovementSpeed": 290.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Spirit Breaker",
+    "StatusHealthRegen": 0.75
+}

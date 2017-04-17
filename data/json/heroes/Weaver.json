@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 46.0,
+    "AttackDamageMin": 36.0,
+    "AttackRange": 425.0,
+    "AttackRate": 1.8,
+    "AttributeAgilityGain": 2.5,
+    "AttributeBaseAgility": 14.0,
+    "AttributeBaseIntelligence": 15.0,
+    "AttributeBaseStrength": 15.0,
+    "AttributeIntelligenceGain": 1.8,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 1.5,
+    "MovementSpeed": 290.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Weaver",
+    "ProjectileSpeed": 900.0
+}

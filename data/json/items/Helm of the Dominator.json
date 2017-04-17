@@ -1,0 +1,8 @@
+{
+    "ItemCost": 1850.0,
+    "Name": "Helm of the Dominator",
+    "bonus_armor": 5.0,
+    "bonus_damage": 20.0,
+    "bonus_regen": 3.0,
+    "lifesteal_percent": 15.0
+}

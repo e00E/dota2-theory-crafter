@@ -1,0 +1,8 @@
+{
+    "ItemCost": 2370.0,
+    "Name": "Armlet",
+    "bonus_armor": 5.0,
+    "bonus_attack_speed": 25.0,
+    "bonus_damage": 9.0,
+    "bonus_health_regen": 7.0
+}

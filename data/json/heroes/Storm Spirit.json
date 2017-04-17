@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 2.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 32.0,
+    "AttackDamageMin": 22.0,
+    "AttackRange": 480.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.8,
+    "AttributeBaseAgility": 22.0,
+    "AttributeBaseIntelligence": 23.0,
+    "AttributeBaseStrength": 19.0,
+    "AttributeIntelligenceGain": 2.6,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.5,
+    "MovementSpeed": 285.0,
+    "MovementTurnRate": 0.8,
+    "Name": "Storm Spirit",
+    "ProjectileSpeed": 1100.0
+}

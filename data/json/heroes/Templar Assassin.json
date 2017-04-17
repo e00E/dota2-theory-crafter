@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 36.0,
+    "AttackDamageMin": 30.0,
+    "AttackRange": 140.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.7,
+    "AttributeBaseAgility": 23.0,
+    "AttributeBaseIntelligence": 20.0,
+    "AttributeBaseStrength": 18.0,
+    "AttributeIntelligenceGain": 2.0,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 2.1,
+    "MovementSpeed": 305.0,
+    "MovementTurnRate": 0.7,
+    "Name": "Templar Assassin",
+    "ProjectileSpeed": 900.0
+}

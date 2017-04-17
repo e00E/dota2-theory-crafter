@@ -1,0 +1,20 @@
+{
+    "ArmorPhysical": 3.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 42.0,
+    "AttackDamageMin": 38.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.25,
+    "AttributeBaseAgility": 18.0,
+    "AttributeBaseIntelligence": 16.0,
+    "AttributeBaseStrength": 23.0,
+    "AttributeIntelligenceGain": 1.6,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.8,
+    "MovementSpeed": 295.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Night Stalker",
+    "VisionDaytimeRange": 1200.0,
+    "VisionNighttimeRange": 1800.0
+}

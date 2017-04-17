@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 42.0,
+    "AttackDamageMin": 32.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.9,
+    "AttributeBaseAgility": 18.0,
+    "AttributeBaseIntelligence": 15.0,
+    "AttributeBaseStrength": 25.0,
+    "AttributeIntelligenceGain": 1.75,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.4,
+    "MovementSpeed": 315.0,
+    "MovementTurnRate": 1.0,
+    "Name": "Lifestealer",
+    "ProjectileSpeed": 900.0
+}

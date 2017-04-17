@@ -1,0 +1,20 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 21.0,
+    "AttackDamageMin": 15.0,
+    "AttackRange": 550.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.5,
+    "AttributeBaseAgility": 21.0,
+    "AttributeBaseIntelligence": 15.0,
+    "AttributeBaseStrength": 16.0,
+    "AttributeIntelligenceGain": 2.6,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 1.7,
+    "MovementSpeed": 290.0,
+    "MovementTurnRate": 0.6,
+    "Name": "Sniper",
+    "ProjectileSpeed": 3000.0,
+    "VisionNighttimeRange": 1000.0
+}

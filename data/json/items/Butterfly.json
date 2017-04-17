@@ -1,0 +1,8 @@
+{
+    "ItemCost": 5875.0,
+    "Name": "Butterfly",
+    "bonus_agility": 30.0,
+    "bonus_attack_speed": 30.0,
+    "bonus_damage": 30.0,
+    "bonus_evasion": 35.0
+}

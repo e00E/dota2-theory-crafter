@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 0.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 28.0,
+    "AttackDamageMin": 22.0,
+    "AttackRange": 620.0,
+    "AttackRate": 1.4,
+    "AttributeAgilityGain": 1.7,
+    "AttributeBaseAgility": 15.0,
+    "AttributeBaseIntelligence": 23.0,
+    "AttributeBaseStrength": 18.0,
+    "AttributeIntelligenceGain": 2.9,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.9,
+    "MovementSpeed": 305.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Oracle",
+    "ProjectileSpeed": 900.0
+}

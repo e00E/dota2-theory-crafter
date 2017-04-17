@@ -1,0 +1,8 @@
+{
+    "ItemCost": 3200.0,
+    "Name": "Soul Booster",
+    "bonus_health": 450.0,
+    "bonus_health_regen": 4.0,
+    "bonus_mana": 400.0,
+    "bonus_mana_regen": 100.0
+}

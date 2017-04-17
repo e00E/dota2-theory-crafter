@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 33.0,
+    "AttackDamageMin": 24.0,
+    "AttackRange": 550.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 2.0,
+    "AttributeBaseAgility": 15.0,
+    "AttributeBaseIntelligence": 18.0,
+    "AttributeBaseStrength": 18.0,
+    "AttributeIntelligenceGain": 3.25,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 1.55,
+    "MovementSpeed": 315.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Lich",
+    "ProjectileSpeed": 900.0
+}

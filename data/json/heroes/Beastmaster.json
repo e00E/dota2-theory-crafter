@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": 2.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 45.0,
+    "AttackDamageMin": 41.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.6,
+    "AttributeBaseAgility": 18.0,
+    "AttributeBaseIntelligence": 16.0,
+    "AttributeBaseStrength": 23.0,
+    "AttributeIntelligenceGain": 1.9,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 2.2,
+    "MovementSpeed": 310.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Beastmaster",
+    "ProjectileSpeed": 0.0
+}

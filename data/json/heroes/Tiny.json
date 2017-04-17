@@ -1,0 +1,18 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 43.0,
+    "AttackDamageMin": 37.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 0.9,
+    "AttributeBaseAgility": 9.0,
+    "AttributeBaseIntelligence": 14.0,
+    "AttributeBaseStrength": 24.0,
+    "AttributeIntelligenceGain": 1.6,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 3.0,
+    "MovementSpeed": 285.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Tiny"
+}

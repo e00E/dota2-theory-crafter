@@ -1,0 +1,9 @@
+{
+    "ItemCost": 5900.0,
+    "Name": "Octarine Core",
+    "bonus_health": 450.0,
+    "bonus_health_regen": 4.0,
+    "bonus_intelligence": 25.0,
+    "bonus_mana": 400.0,
+    "bonus_mana_regen": 100.0
+}

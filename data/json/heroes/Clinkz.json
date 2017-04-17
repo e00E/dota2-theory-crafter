@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 21.0,
+    "AttackDamageMin": 15.0,
+    "AttackRange": 630.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 3.0,
+    "AttributeBaseAgility": 22.0,
+    "AttributeBaseIntelligence": 16.0,
+    "AttributeBaseStrength": 15.0,
+    "AttributeIntelligenceGain": 1.55,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 1.6,
+    "MovementSpeed": 300.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Clinkz",
+    "ProjectileSpeed": 900.0
+}

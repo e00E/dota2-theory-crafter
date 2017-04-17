@@ -1,0 +1,8 @@
+{
+    "ItemCost": 525.0,
+    "Name": "Ring of Basilius",
+    "aura_bonus_armor": 2.0,
+    "aura_mana_regen": 0.65,
+    "bonus_armor": 1.0,
+    "bonus_damage": 6.0
+}

@@ -1,0 +1,18 @@
+{
+    "ArmorPhysical": 1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 25.0,
+    "AttackDamageMin": 23.0,
+    "AttackRange": 128.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 3.15,
+    "AttributeBaseAgility": 23.0,
+    "AttributeBaseIntelligence": 13.0,
+    "AttributeBaseStrength": 20.0,
+    "AttributeIntelligenceGain": 1.0,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 1.85,
+    "MovementSpeed": 310.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Phantom Assassin"
+}

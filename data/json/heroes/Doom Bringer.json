@@ -1,0 +1,18 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_MELEE_ATTACK",
+    "AttackDamageMax": 43.0,
+    "AttackDamageMin": 27.0,
+    "AttackRange": 150.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 0.9,
+    "AttributeBaseAgility": 11.0,
+    "AttributeBaseIntelligence": 13.0,
+    "AttributeBaseStrength": 26.0,
+    "AttributeIntelligenceGain": 2.1,
+    "AttributePrimary": "DOTA_ATTRIBUTE_STRENGTH",
+    "AttributeStrengthGain": 3.2,
+    "MovementSpeed": 290.0,
+    "MovementTurnRate": 0.5,
+    "Name": "Doom Bringer"
+}

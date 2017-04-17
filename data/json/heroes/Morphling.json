@@ -1,0 +1,19 @@
+{
+    "ArmorPhysical": -2.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 22.0,
+    "AttackDamageMin": 13.0,
+    "AttackRange": 350.0,
+    "AttackRate": 1.6,
+    "AttributeAgilityGain": 3.0,
+    "AttributeBaseAgility": 24.0,
+    "AttributeBaseIntelligence": 17.0,
+    "AttributeBaseStrength": 19.0,
+    "AttributeIntelligenceGain": 1.5,
+    "AttributePrimary": "DOTA_ATTRIBUTE_AGILITY",
+    "AttributeStrengthGain": 2.0,
+    "MovementSpeed": 285.0,
+    "MovementTurnRate": 0.6,
+    "Name": "Morphling",
+    "ProjectileSpeed": 1300.0
+}

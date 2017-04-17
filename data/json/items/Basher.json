@@ -1,0 +1,9 @@
+{
+    "ItemCost": 2950.0,
+    "Name": "Basher",
+    "bash_chance_melee": 25.0,
+    "bash_chance_ranged": 10.0,
+    "bonus_chance_damage": 60.0,
+    "bonus_damage": 25.0,
+    "bonus_strength": 8.0
+}

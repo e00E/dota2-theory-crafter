@@ -1,0 +1,22 @@
+{
+    "ArmorPhysical": -1.0,
+    "AttackCapabilities": "DOTA_UNIT_CAP_RANGED_ATTACK",
+    "AttackDamageMax": 20.0,
+    "AttackDamageMin": 13.0,
+    "AttackRange": 425.0,
+    "AttackRate": 1.7,
+    "AttributeAgilityGain": 1.9,
+    "AttributeBaseAgility": 16.0,
+    "AttributeBaseIntelligence": 25.0,
+    "AttributeBaseStrength": 24.0,
+    "AttributeIntelligenceGain": 3.1,
+    "AttributePrimary": "DOTA_ATTRIBUTE_INTELLECT",
+    "AttributeStrengthGain": 2.1,
+    "MagicalResistance": 25.0,
+    "MovementSpeed": 285.0,
+    "MovementTurnRate": 0.4,
+    "Name": "Winter Wyvern",
+    "ProjectileSpeed": 700.0,
+    "VisionDaytimeRange": 1800.0,
+    "VisionNighttimeRange": 800.0
+}

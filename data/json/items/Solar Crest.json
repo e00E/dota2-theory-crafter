@@ -1,0 +1,7 @@
+{
+    "ItemCost": 3000.0,
+    "Name": "Solar Crest",
+    "bonus_armor": 10.0,
+    "bonus_evasion": 30.0,
+    "bonus_mana_regen_pct": 75.0
+}

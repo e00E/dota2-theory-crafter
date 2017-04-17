@@ -1,0 +1,9 @@
+{
+    "ItemCost": 2325.0,
+    "Name": "Vladimir",
+    "armor_aura": 5.0,
+    "bonus_all_stats": 2.0,
+    "damage_aura": 15.0,
+    "hp_regen": 3.0,
+    "mana_regen_aura": 0.8
+}
